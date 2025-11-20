@@ -1,0 +1,11 @@
+outlet_id,name,tier,location_city,location_state,size,outlet_type
+1,Outlet_1,Tier 1,Chennai,TN,Large,Grocery
+2,Outlet_2,Tier 3,Delhi,DL,Medium,Supermarket
+3,Outlet_3,Tier 2,Delhi,KA,Large,Grocery
+4,Outlet_4,Tier 1,Delhi,DL,Small,Convenience
+5,Outlet_5,Tier 1,Delhi,DL,Large,Convenience
+6,Outlet_6,Tier 3,Chennai,DL,Medium,Supermarket
+7,Outlet_7,Tier 2,Bangalore,MH,Small,Convenience
+8,Outlet_8,Tier 1,Chennai,MH,Large,Supermarket
+9,Outlet_9,Tier 3,Delhi,MH,Small,Convenience
+10,Outlet_10,Tier 3,Mumbai,TN,Large,Convenience
