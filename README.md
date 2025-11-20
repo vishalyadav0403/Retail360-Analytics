@@ -71,7 +71,7 @@ Retail360-Analytics/
 
 Here is the main dashboard screenshot:
 
-![Retail360 Dashboard](sandbox:/mnt/data/Annotation 2025-11-20 202028.png)
+![Retail360 Dashboard 2](./screenshots/Annotation%202025-11-20%20202028.png)
 
 ## 🧩 How to Use the Dashboard
 1. Clone this repository:
